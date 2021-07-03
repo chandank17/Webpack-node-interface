@@ -1,0 +1,7 @@
+// This file to tell babel to convert all es6 and react code to convert older js version
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
